@@ -10,4 +10,4 @@ To install the font just run `setup.exe` in the `layout01` folder.
 
 ## Uninstall
 
-To completely remove the keyboard is not enough remove it from the active languages: you have to uninstall it from the Add/Remove Programs windows tool.
+In order to completely remove the keyboard is not enough to remove it from the active languages: you have to uninstall it from the Add/Remove Programs windows tool.
